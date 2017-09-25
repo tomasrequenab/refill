@@ -7,21 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D01A11BB1E37BF8A000936FE /* Retos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01A11BA1E37BF8A000936FE /* Retos.swift */; };
+		D03074251E3F8FC800C10985 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03074241E3F8FC800C10985 /* JuegosViewController.swift */; };
+		D03074271E40D55700C10985 /* Juegos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03074261E40D55700C10985 /* Juegos.swift */; };
 		D045E2E81D8C667200F14B1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045E2E71D8C667200F14B1B /* AppDelegate.swift */; };
-		D045E2EA1D8C667200F14B1B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045E2E91D8C667200F14B1B /* ViewController.swift */; };
+		D045E2EA1D8C667200F14B1B /* IngresoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D045E2E91D8C667200F14B1B /* IngresoViewController.swift */; };
 		D045E2ED1D8C667200F14B1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D045E2EB1D8C667200F14B1B /* Main.storyboard */; };
 		D045E2EF1D8C667200F14B1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D045E2EE1D8C667200F14B1B /* Assets.xcassets */; };
 		D045E2F21D8C667200F14B1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D045E2F01D8C667200F14B1B /* LaunchScreen.storyboard */; };
+		D04F0BB11DEB682E00F9EBBA /* Categorias.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F0BB01DEB682E00F9EBBA /* Categorias.swift */; };
+		D0639FDC1DF3588700D5D242 /* Personales.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0639FDB1DF3588600D5D242 /* Personales.swift */; };
+		D06C59BE1D8C892C000EB5EC /* DominoesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06C59BD1D8C892C000EB5EC /* DominoesViewController.swift */; };
+		D09FB5611DDBB69000ECD260 /* Jugadores.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09FB5601DDBB69000ECD260 /* Jugadores.swift */; };
+		D09FB5631DDBD83E00ECD260 /* Dominoes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09FB5621DDBD83E00ECD260 /* Dominoes.swift */; };
+		D0FB4E1E1DE5361E009E51F1 /* SegueDominoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0FB4E1D1DE5361E009E51F1 /* SegueDominoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D01A11BA1E37BF8A000936FE /* Retos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Retos.swift; sourceTree = "<group>"; };
+		D03074241E3F8FC800C10985 /* JuegosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
+		D03074261E40D55700C10985 /* Juegos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Juegos.swift; sourceTree = "<group>"; };
 		D045E2E41D8C667200F14B1B /* Refill it!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Refill it!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D045E2E71D8C667200F14B1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D045E2E91D8C667200F14B1B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D045E2E91D8C667200F14B1B /* IngresoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngresoViewController.swift; sourceTree = "<group>"; };
 		D045E2EC1D8C667200F14B1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D045E2EE1D8C667200F14B1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D045E2F11D8C667200F14B1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D045E2F31D8C667200F14B1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D04F0BB01DEB682E00F9EBBA /* Categorias.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Categorias.swift; sourceTree = "<group>"; };
+		D0639FDB1DF3588600D5D242 /* Personales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Personales.swift; sourceTree = "<group>"; };
+		D06C59BD1D8C892C000EB5EC /* DominoesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DominoesViewController.swift; sourceTree = "<group>"; };
+		D09FB5601DDBB69000ECD260 /* Jugadores.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Jugadores.swift; sourceTree = "<group>"; };
+		D09FB5621DDBD83E00ECD260 /* Dominoes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dominoes.swift; sourceTree = "<group>"; };
+		D0FB4E1D1DE5361E009E51F1 /* SegueDominoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegueDominoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,8 +73,17 @@
 			isa = PBXGroup;
 			children = (
 				D045E2E71D8C667200F14B1B /* AppDelegate.swift */,
-				D045E2E91D8C667200F14B1B /* ViewController.swift */,
 				D045E2EB1D8C667200F14B1B /* Main.storyboard */,
+				D09FB5601DDBB69000ECD260 /* Jugadores.swift */,
+				D09FB5621DDBD83E00ECD260 /* Dominoes.swift */,
+				D04F0BB01DEB682E00F9EBBA /* Categorias.swift */,
+				D03074261E40D55700C10985 /* Juegos.swift */,
+				D01A11BA1E37BF8A000936FE /* Retos.swift */,
+				D0639FDB1DF3588600D5D242 /* Personales.swift */,
+				D045E2E91D8C667200F14B1B /* IngresoViewController.swift */,
+				D06C59BD1D8C892C000EB5EC /* DominoesViewController.swift */,
+				D0FB4E1D1DE5361E009E51F1 /* SegueDominoViewController.swift */,
+				D03074241E3F8FC800C10985 /* JuegosViewController.swift */,
 				D045E2EE1D8C667200F14B1B /* Assets.xcassets */,
 				D045E2F01D8C667200F14B1B /* LaunchScreen.storyboard */,
 				D045E2F31D8C667200F14B1B /* Info.plist */,
@@ -91,12 +118,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "Tomas Requena Briceño";
 				TargetAttributes = {
 					D045E2E31D8C667200F14B1B = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = WQBBWTJ9EK;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -137,8 +165,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D045E2EA1D8C667200F14B1B /* ViewController.swift in Sources */,
+				D06C59BE1D8C892C000EB5EC /* DominoesViewController.swift in Sources */,
+				D0639FDC1DF3588700D5D242 /* Personales.swift in Sources */,
+				D045E2EA1D8C667200F14B1B /* IngresoViewController.swift in Sources */,
+				D04F0BB11DEB682E00F9EBBA /* Categorias.swift in Sources */,
+				D09FB5631DDBD83E00ECD260 /* Dominoes.swift in Sources */,
+				D03074251E3F8FC800C10985 /* JuegosViewController.swift in Sources */,
+				D09FB5611DDBB69000ECD260 /* Jugadores.swift in Sources */,
+				D03074271E40D55700C10985 /* Juegos.swift in Sources */,
 				D045E2E81D8C667200F14B1B /* AppDelegate.swift in Sources */,
+				D0FB4E1E1DE5361E009E51F1 /* SegueDominoViewController.swift in Sources */,
+				D01A11BB1E37BF8A000936FE /* Retos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -173,7 +210,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -181,7 +220,12 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -223,7 +267,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -231,7 +277,12 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -266,7 +317,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "torreta.Refill-it-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -279,7 +331,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "torreta.Refill-it-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -302,6 +355,7 @@
 				D045E2F81D8C667200F14B1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
